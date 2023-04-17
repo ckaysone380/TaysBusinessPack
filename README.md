@@ -46,7 +46,11 @@ If for whatever reason you crash using this pack, please read here and perhaps c
 
 See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-gamebuild-to-casino-cayo-perico-tuners-future-dlcs/4784977)
 
-### The clothing is based off of New Zealand comedy channel by the name of [Viva La Dirt League](https://www.youtube.com/watch?v=uRZHpjCKK8A) and Canadian artist [Crash Adams](https://www.youtube.com/watch?v=K5NEOwRXa_8). 
+## Clothing Texture Issues:
+
+In case you have issues with clothes appearing black ingame using FiveM, this is a known FiveM issue that should be fixed within the next weeks.
+
+Read this for more details: [FiveM GitHub Issue #1911](https://github.com/citizenfx/fivem/issues/1911)
 
 ---------------------------------------
 
@@ -54,6 +58,7 @@ See my tutorial regarding [gamebuilds:](https://forum.cfx.re/t/tutorial-forcing-
 
 ## MALE & FEMALE SHIRT 1, MULTIPLE TEXTURE VARIANTS:
 
+```
 A - Burger Shot Employee
 B - Burger Shot Manager
 C - Bean Machine
@@ -75,18 +80,20 @@ R - Fleeca Bank
 S - Gruppe6 Security
 T - Los Santos Customs
 U - SECURITY
+```
 
 ---------------------------------------
 
 ## WORK SHIRT 2 Male And Female:
-
+```
 A - Cluckin Bell
+```
 
 ---------------------------------------
 
 
 ### WORK HAT - Male And Female Front Facing And Backwards Variants:
-
+```
 A - Burger Shot Employee
 B - Burger Shot Manager
 C - Cluckin Bell 
@@ -106,16 +113,16 @@ P - Fleeca Bank
 Q - Gruppe6 Security
 R - Los Santos Customs
 S - SECURITY
+```
 
 ---------------------------------------
 
 
 ### WORK PANTS - Male And Female Variants:
-
+```
 A - Black
 B - Yellow Cluckin Bell
-
----------------------------------------
+```
 
 ---------------------------------------
 
