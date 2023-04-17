@@ -14,13 +14,44 @@
 *Alternatively, you can set your player count to 10*
 
 
+----------------------------------
+
+Attention all GTA 5 roleplayers! 
+
+Are you tired of wearing the same old boring clothes in the game? Well, we've got the solution for you! 
+
+Introducing the ultimate clothing pack for all your virtual fashion needs!
+
+Get ready to turn heads with our high-quality fabrics and stylish designs. Whether you're running errands for your virtual boss or spiking burgers with crack cocaine, you'll be sure to make a statement.
+
+And the best part? It's completely free! That's right, you'd be a fool to pay those exorbitant Tebex prices for virtual clothes when you can get the ultimate clothing pack for your virtual cities at no cost.
+
+With a wide range of designs to choose from, including Burger Shot, Bean Machine, UwU Cafe, Vanilla Unicorn, and more, you'll never run out of options. And don't forget about our exclusive front-facing and backwards-facing cap variants! Perfect for when you need to switch up your style on the fly.
+
+So what are you waiting for? Upgrade your virtual wardrobe today and become the fashion icon you were always meant to be. Remember, virtual fashion is just as important as real-life fashion. Don't miss out on this amazing offer!
+
+
+---------------------------------------
+
+
 # Screenshots
 
 | | | |
 |-|-|-|
-| <img src="Screenshots/SS1.png" width="1050"> | <img src="Screenshots/SS2.png" width="1050"> | <img src="Screenshots/SS3.png" width="1050"> |
-| <img src="Screenshots/SS4.png" width="1050">  | <img src="Screenshots/SS5.png" width="1050"> | <img src="Screenshots/SS6.png" width="1050"> |
-| <img src="Screenshots/SS7.png" width="1050">  | <img src="Screenshots/SS8.png" width="1050"> | <img src="Screenshots/SS9.png" width="1050"> |
+| <img src="FILES/SCREENSHOTS/Burger Shot.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Burger Shot 2.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Bean.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Bean2.png" width="500">  | <img src="FILES/SCREENSHOTS/UwU2.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/UwU2.jpeg" width="500"> |
+| <img src="FILES/SCREENSHOTS/UwU3.jpeg" width="500">  | <img src="FILES/SCREENSHOTS/UwU4.jpeg" width="500"> | <img src="FILES/SCREENSHOTS/Vanilla.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Vanilla 2.png" width="500">  | <img src="FILES/SCREENSHOTS/Taxi.png" width="500"> | <img src="FILES/SCREENSHOTS/Chihuahua Hot Dog 1.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Chihuahua Hot Dog 2.png" width="500">  | <img src="FILES/SCREENSHOTS/Taco Bomb 3.png" width="500"> | <img src="FILES/SCREENSHOTS/Taco Bomb 2.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Hornys.png" width="500">  | <img src="FILES/SCREENSHOTS/Hornys2.png" width="500"> | <img src="FILES/SCREENSHOTS/Lucky Plucker1.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Lucky Plucker2.png" width="500">  | <img src="FILES/SCREENSHOTS/Lucky Plucker3.png" width="500"> | <img src="FILES/SCREENSHOTS/Lucky Plucker4.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Smoke On The Water.png" width="500">  | <img src="FILES/SCREENSHOTS/Smoke On The Water2.png" width="500"> | <img src="FILES/SCREENSHOTS/Up N Atom1.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Up N Atom2.png" width="500">  | <img src="FILES/SCREENSHOTS/2471.png" width="500"> | <img src="FILES/SCREENSHOTS/2472.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/LTD1.png" width="500">  | <img src="FILES/SCREENSHOTS/LTD2.png" width="500"> | <img src="FILES/SCREENSHOTS/Merryweather.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/Fleeca.png" width="500">  | <img src="FILES/SCREENSHOTS/Gruppe6.png" width="500"> | <img src="FILES/SCREENSHOTS/Gruppe62.png" width="500"> |
+| <img src="FILES/SCREENSHOTS/LSC.png" width="500">  | <img src="FILES/SCREENSHOTS/LSC2.png" width="500"> | <img src="FILES/SCREENSHOTS/Security1.png" width="500"> |
+|  | <img src="FILES/SCREENSHOTS/Security2.png" width="500"> |  |
+
 
 
 
